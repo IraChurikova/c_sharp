@@ -18,3 +18,13 @@ C:\Users\User\Documents\GitHub\LabsCSharp\Labs\лаба1_с_шарп\obj\Debug\�
 C:\Users\User\Documents\GitHub\LabsCSharp\Labs\лаба1_с_шарп\obj\Debug\лаба1_с_шарп.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\GitHub\LabsCSharp\Labs\лаба1_с_шарп\obj\Debug\лаба1_с_шарп.exe
 C:\Users\User\Documents\GitHub\LabsCSharp\Labs\лаба1_с_шарп\obj\Debug\лаба1_с_шарп.pdb
+C:\Users\User\Desktop\лабы с_шарп\--\лаба1_с_шарп\bin\Debug\лаба1_с_шарп.exe.config
+C:\Users\User\Desktop\лабы с_шарп\--\лаба1_с_шарп\bin\Debug\лаба1_с_шарп.exe
+C:\Users\User\Desktop\лабы с_шарп\--\лаба1_с_шарп\bin\Debug\лаба1_с_шарп.pdb
+C:\Users\User\Desktop\лабы с_шарп\--\лаба1_с_шарп\obj\Debug\лаба1_с_шарп.csprojAssemblyReference.cache
+C:\Users\User\Desktop\лабы с_шарп\--\лаба1_с_шарп\obj\Debug\лаба1_с_шарп.Form1.resources
+C:\Users\User\Desktop\лабы с_шарп\--\лаба1_с_шарп\obj\Debug\лаба1_с_шарп.Properties.Resources.resources
+C:\Users\User\Desktop\лабы с_шарп\--\лаба1_с_шарп\obj\Debug\лаба1_с_шарп.csproj.GenerateResource.cache
+C:\Users\User\Desktop\лабы с_шарп\--\лаба1_с_шарп\obj\Debug\лаба1_с_шарп.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\лабы с_шарп\--\лаба1_с_шарп\obj\Debug\лаба1_с_шарп.exe
+C:\Users\User\Desktop\лабы с_шарп\--\лаба1_с_шарп\obj\Debug\лаба1_с_шарп.pdb
