@@ -58,7 +58,6 @@
     <Compile Include="MainForm.Designer.cs">
       <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="MusicalInstrument.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Input.resx">
@@ -88,6 +87,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\лаб3_библиотекаКлассов\лаб3_библиотекаКлассов.csproj">
+      <Project>{1c6bd37c-9c34-4688-87ca-1bc05f51e3d7}</Project>
+      <Name>лаб3_библиотекаКлассов</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

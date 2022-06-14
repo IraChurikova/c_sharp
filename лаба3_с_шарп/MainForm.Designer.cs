@@ -33,10 +33,10 @@ namespace лаба3_с_шарп
             this.listBox1 = new System.Windows.Forms.ListBox();
             this.toolStrip1 = new System.Windows.Forms.ToolStrip();
             this.toolStripSplitButton1 = new System.Windows.Forms.ToolStripSplitButton();
-            this.showGuitarFrequencyButton = new System.Windows.Forms.ToolStripMenuItem();
             this.valumeButton = new System.Windows.Forms.ToolStripMenuItem();
-            this.pullStringButton = new System.Windows.Forms.ToolStripMenuItem();
+            this.showGuitarFrequencyButton = new System.Windows.Forms.ToolStripMenuItem();
             this.makeLouderButton = new System.Windows.Forms.ToolStripMenuItem();
+            this.pullStringButton = new System.Windows.Forms.ToolStripMenuItem();
             this.breakStringButton = new System.Windows.Forms.ToolStripMenuItem();
             this.playBassButton = new System.Windows.Forms.ToolStripMenuItem();
             this.playButton = new System.Windows.Forms.ToolStripMenuItem();
@@ -63,7 +63,7 @@ namespace лаба3_с_шарп
             this.DeleteButton});
             this.toolStrip1.Location = new System.Drawing.Point(0, 0);
             this.toolStrip1.Name = "toolStrip1";
-            this.toolStrip1.Size = new System.Drawing.Size(363, 31);
+            this.toolStrip1.Size = new System.Drawing.Size(363, 27);
             this.toolStrip1.TabIndex = 3;
             this.toolStrip1.Text = "toolStrip1";
             // 
@@ -81,16 +81,9 @@ namespace лаба3_с_шарп
             this.toolStripSplitButton1.Image = ((System.Drawing.Image)(resources.GetObject("toolStripSplitButton1.Image")));
             this.toolStripSplitButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripSplitButton1.Name = "toolStripSplitButton1";
-            this.toolStripSplitButton1.Size = new System.Drawing.Size(179, 28);
+            this.toolStripSplitButton1.Size = new System.Drawing.Size(179, 24);
             this.toolStripSplitButton1.Text = "Работа с устройством";
-           
-            // 
-            // showGuitarFrequencyButton
-            // 
-            this.showGuitarFrequencyButton.Name = "showGuitarFrequencyButton";
-            this.showGuitarFrequencyButton.Size = new System.Drawing.Size(248, 26);
-            this.showGuitarFrequencyButton.Text = "Узнать частоту гитары";
-            this.showGuitarFrequencyButton.Click += new System.EventHandler(this.showGuitarFrequencyButton_Click);
+            this.toolStripSplitButton1.ButtonClick += new System.EventHandler(this.toolStripSplitButton1_ButtonClick);
             // 
             // valumeButton
             // 
@@ -99,12 +92,12 @@ namespace лаба3_с_шарп
             this.valumeButton.Text = "Включить гитару";
             this.valumeButton.Click += new System.EventHandler(this.valueButton_Click);
             // 
-            // pullStringButton
+            // showGuitarFrequencyButton
             // 
-            this.pullStringButton.Name = "pullStringButton";
-            this.pullStringButton.Size = new System.Drawing.Size(248, 26);
-            this.pullStringButton.Text = "Натянуть струну";
-            this.pullStringButton.Click += new System.EventHandler(this.pullStringButton_Click);
+            this.showGuitarFrequencyButton.Name = "showGuitarFrequencyButton";
+            this.showGuitarFrequencyButton.Size = new System.Drawing.Size(248, 26);
+            this.showGuitarFrequencyButton.Text = "Узнать частоту гитары";
+            this.showGuitarFrequencyButton.Click += new System.EventHandler(this.showGuitarFrequencyButton_Click);
             // 
             // makeLouderButton
             // 
@@ -112,6 +105,13 @@ namespace лаба3_с_шарп
             this.makeLouderButton.Size = new System.Drawing.Size(248, 26);
             this.makeLouderButton.Text = "Сделать громче";
             this.makeLouderButton.Click += new System.EventHandler(this.makeLouderButton_Click);
+            // 
+            // pullStringButton
+            // 
+            this.pullStringButton.Name = "pullStringButton";
+            this.pullStringButton.Size = new System.Drawing.Size(248, 26);
+            this.pullStringButton.Text = "Натянуть струну";
+            this.pullStringButton.Click += new System.EventHandler(this.pullStringButton_Click);
             // 
             // breakStringButton
             // 
@@ -140,7 +140,7 @@ namespace лаба3_с_шарп
             this.AddButton.Image = ((System.Drawing.Image)(resources.GetObject("AddButton.Image")));
             this.AddButton.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.AddButton.Name = "AddButton";
-            this.AddButton.Size = new System.Drawing.Size(80, 28);
+            this.AddButton.Size = new System.Drawing.Size(80, 24);
             this.AddButton.Text = "Добавить";
             this.AddButton.Click += new System.EventHandler(this.AddButton_Click);
             // 
@@ -150,7 +150,7 @@ namespace лаба3_с_шарп
             this.DeleteButton.Image = ((System.Drawing.Image)(resources.GetObject("DeleteButton.Image")));
             this.DeleteButton.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.DeleteButton.Name = "DeleteButton";
-            this.DeleteButton.Size = new System.Drawing.Size(69, 28);
+            this.DeleteButton.Size = new System.Drawing.Size(69, 24);
             this.DeleteButton.Text = "Удалить";
             this.DeleteButton.Click += new System.EventHandler(this.DeleteButton_Click);
             // 

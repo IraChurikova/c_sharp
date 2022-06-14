@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\лабы с_шарп\--\лаб2_библиотекаКлассов\bin\Debug\netstandard2.0\лаб2_библиотекаКлассов.deps.json
+C:\Users\User\Desktop\лабы с_шарп\--\лаб2_библиотекаКлассов\bin\Debug\netstandard2.0\лаб2_библиотекаКлассов.dll
+C:\Users\User\Desktop\лабы с_шарп\--\лаб2_библиотекаКлассов\bin\Debug\netstandard2.0\лаб2_библиотекаКлассов.pdb
+C:\Users\User\Desktop\лабы с_шарп\--\лаб2_библиотекаКлассов\obj\Debug\netstandard2.0\лаб2_библиотекаКлассов.csprojAssemblyReference.cache
+C:\Users\User\Desktop\лабы с_шарп\--\лаб2_библиотекаКлассов\obj\Debug\netstandard2.0\лаб2_библиотекаКлассов.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\лабы с_шарп\--\лаб2_библиотекаКлассов\obj\Debug\netstandard2.0\лаб2_библиотекаКлассов.AssemblyInfo.cs
+C:\Users\User\Desktop\лабы с_шарп\--\лаб2_библиотекаКлассов\obj\Debug\netstandard2.0\лаб2_библиотекаКлассов.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\лабы с_шарп\--\лаб2_библиотекаКлассов\obj\Debug\netstandard2.0\лаб2_библиотекаКлассов.dll
+C:\Users\User\Desktop\лабы с_шарп\--\лаб2_библиотекаКлассов\obj\Debug\netstandard2.0\лаб2_библиотекаКлассов.pdb

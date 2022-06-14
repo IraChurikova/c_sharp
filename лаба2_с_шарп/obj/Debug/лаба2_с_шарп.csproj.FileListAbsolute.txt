@@ -28,3 +28,6 @@ C:\Users\User\Desktop\лабы с_шарп\--\лаба2_с_шарп\obj\Debug\л
 C:\Users\User\Desktop\лабы с_шарп\--\лаба2_с_шарп\obj\Debug\лаба2_с_шарп.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\лабы с_шарп\--\лаба2_с_шарп\obj\Debug\лаба2_с_шарп.exe
 C:\Users\User\Desktop\лабы с_шарп\--\лаба2_с_шарп\obj\Debug\лаба2_с_шарп.pdb
+C:\Users\User\Desktop\лабы с_шарп\--\лаба2_с_шарп\bin\Debug\лаб2_библиотекаКлассов.dll
+C:\Users\User\Desktop\лабы с_шарп\--\лаба2_с_шарп\bin\Debug\лаб2_библиотекаКлассов.pdb
+C:\Users\User\Desktop\лабы с_шарп\--\лаба2_с_шарп\obj\Debug\лаба2_с_шарп.csproj.CopyComplete

@@ -8,9 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Text.RegularExpressions;
+using лаб1_библиотекаКлассов;
 
 
-namespace лаба1_с_шарп
+
+    namespace лаба1_с_шарп
 {
     public partial class Form1 : Form
     {

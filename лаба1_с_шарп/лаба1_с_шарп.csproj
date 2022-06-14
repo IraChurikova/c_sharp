@@ -46,8 +46,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Train.cs" />
-    <Compile Include="TrainCarriage.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -80,6 +78,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\лаб1_библиотекаКлассов\лаб1_библиотекаКлассов.csproj">
+      <Project>{e0766df8-7043-48d7-8637-93c06905588b}</Project>
+      <Name>лаб1_библиотекаКлассов</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

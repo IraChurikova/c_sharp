@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using лаба3_библиотекаКлассов;
+
 
 namespace лаба3_с_шарп
 {
@@ -64,22 +66,22 @@ namespace лаба3_с_шарп
 
         private void pullStringButton_Click(object sender, EventArgs e)
         {
-            guitar.pullString();
+            MessageBox.Show(guitar.pullString());
         }
 
         private void breakStringButton_Click(object sender, EventArgs e)
         {
-            guitar.breakString();
+            MessageBox.Show(guitar.breakString());
         }
 
         private void playBasButton_Click(object sender, EventArgs e)
         {
-            guitar.playBas();
+            MessageBox.Show(guitar.playBas());
         }
 
         private void playButton_Click(object sender, EventArgs e)
         {
-            guitar.play();
+            MessageBox.Show(guitar.play());
         }
 
         private void makeLouderButton_Click(object sender, EventArgs e)
@@ -89,10 +91,13 @@ namespace лаба3_с_шарп
 
         private void showGuitarFrequencyButton_Click(object sender, EventArgs e)
         {
-            guitar.showGuitarFrequency();
+            MessageBox.Show(guitar.showGuitarFrequency());
            
         }
 
-       
+        private void toolStripSplitButton1_ButtonClick(object sender, EventArgs e)
+        {
+
+        }
     }
 }

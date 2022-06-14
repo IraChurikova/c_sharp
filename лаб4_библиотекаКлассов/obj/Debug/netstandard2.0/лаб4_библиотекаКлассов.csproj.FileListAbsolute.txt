@@ -1,0 +1,18 @@
+C:\Users\User\Desktop\лабы с_шарп\--\лаб4_библиотекаКлассов\bin\Debug\netstandard2.0\лаб4_библиотекаКлассов.deps.json
+C:\Users\User\Desktop\лабы с_шарп\--\лаб4_библиотекаКлассов\bin\Debug\netstandard2.0\лаб4_библиотекаКлассов.dll
+C:\Users\User\Desktop\лабы с_шарп\--\лаб4_библиотекаКлассов\bin\Debug\netstandard2.0\лаб4_библиотекаКлассов.pdb
+C:\Users\User\Desktop\лабы с_шарп\--\лаб4_библиотекаКлассов\obj\Debug\netstandard2.0\лаб4_библиотекаКлассов.csprojAssemblyReference.cache
+C:\Users\User\Desktop\лабы с_шарп\--\лаб4_библиотекаКлассов\obj\Debug\netstandard2.0\лаб4_библиотекаКлассов.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\лабы с_шарп\--\лаб4_библиотекаКлассов\obj\Debug\netstandard2.0\лаб4_библиотекаКлассов.AssemblyInfo.cs
+C:\Users\User\Desktop\лабы с_шарп\--\лаб4_библиотекаКлассов\obj\Debug\netstandard2.0\лаб4_библиотекаКлассов.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\лабы с_шарп\--\лаб4_библиотекаКлассов\obj\Debug\netstandard2.0\лаб4_библиотекаКлассов.dll
+C:\Users\User\Desktop\лабы с_шарп\--\лаб4_библиотекаКлассов\obj\Debug\netstandard2.0\лаб4_библиотекаКлассов.pdb
+C:\Users\User\Desktop\--\лаб4_библиотекаКлассов\bin\Debug\netstandard2.0\лаб4_библиотекаКлассов.deps.json
+C:\Users\User\Desktop\--\лаб4_библиотекаКлассов\bin\Debug\netstandard2.0\лаб4_библиотекаКлассов.dll
+C:\Users\User\Desktop\--\лаб4_библиотекаКлассов\bin\Debug\netstandard2.0\лаб4_библиотекаКлассов.pdb
+C:\Users\User\Desktop\--\лаб4_библиотекаКлассов\obj\Debug\netstandard2.0\лаб4_библиотекаКлассов.csprojAssemblyReference.cache
+C:\Users\User\Desktop\--\лаб4_библиотекаКлассов\obj\Debug\netstandard2.0\лаб4_библиотекаКлассов.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\--\лаб4_библиотекаКлассов\obj\Debug\netstandard2.0\лаб4_библиотекаКлассов.AssemblyInfo.cs
+C:\Users\User\Desktop\--\лаб4_библиотекаКлассов\obj\Debug\netstandard2.0\лаб4_библиотекаКлассов.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\--\лаб4_библиотекаКлассов\obj\Debug\netstandard2.0\лаб4_библиотекаКлассов.dll
+C:\Users\User\Desktop\--\лаб4_библиотекаКлассов\obj\Debug\netstandard2.0\лаб4_библиотекаКлассов.pdb

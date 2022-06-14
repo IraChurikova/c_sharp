@@ -9,14 +9,34 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "лаба2_с_шарп", "лаба2_с_шарп\лаба2_с_шарп.csproj", "{652E5FE6-1C3C-4D4B-8A66-CC9605C1A6C3}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E5594B24-D737-434D-94BD-BC0638AAFFE9} = {E5594B24-D737-434D-94BD-BC0638AAFFE9}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "лаба1_с_шарп", "лаба1_с_шарп\лаба1_с_шарп.csproj", "{1082E2D3-C8B8-4771-B24B-E84D083CA2FD}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E0766DF8-7043-48D7-8637-93C06905588B} = {E0766DF8-7043-48D7-8637-93C06905588B}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "лаба3_с_шарп", "лаба3_с_шарп\лаба3_с_шарп.csproj", "{135E7A65-E373-455E-8331-A9D91FADF530}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp2", "лаба4_с_шарп\WindowsFormsApp2\WindowsFormsApp2.csproj", "{0C95D53F-BDF5-48C8-B91C-88F74B4FC1E1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "лаба4_с_шарп", "лаба4_с_шарп", "{B0666269-BD86-42C9-9EA4-9FE2702E46AA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "лаб1_библиотекаКлассов", "лаб1_библиотекаКлассов\лаб1_библиотекаКлассов.csproj", "{E0766DF8-7043-48D7-8637-93C06905588B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "лаб1", "лаб1", "{85243A35-60E7-4473-9D30-076FC3FDBD80}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "лаб2_библиотекаКлассов", "лаб2_библиотекаКлассов\лаб2_библиотекаКлассов.csproj", "{E5594B24-D737-434D-94BD-BC0638AAFFE9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "лаб2", "лаб2", "{249DEF04-69F8-4036-BB8F-500E28582ADC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "лаб3_библиотекаКлассов", "лаб3_библиотекаКлассов\лаб3_библиотекаКлассов.csproj", "{1C6BD37C-9C34-4688-87CA-1BC05F51E3D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "лаб3", "лаб3", "{E2A71F55-C565-4148-9A6D-35D0253978AB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "лаб4_библиотекаКлассов", "лаб4_библиотекаКлассов\лаб4_библиотекаКлассов.csproj", "{DC6962EF-18A0-4615-933C-193B98C1ED61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -40,12 +60,34 @@ Global
 		{0C95D53F-BDF5-48C8-B91C-88F74B4FC1E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C95D53F-BDF5-48C8-B91C-88F74B4FC1E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C95D53F-BDF5-48C8-B91C-88F74B4FC1E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0766DF8-7043-48D7-8637-93C06905588B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0766DF8-7043-48D7-8637-93C06905588B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0766DF8-7043-48D7-8637-93C06905588B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0766DF8-7043-48D7-8637-93C06905588B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5594B24-D737-434D-94BD-BC0638AAFFE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5594B24-D737-434D-94BD-BC0638AAFFE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5594B24-D737-434D-94BD-BC0638AAFFE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5594B24-D737-434D-94BD-BC0638AAFFE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C6BD37C-9C34-4688-87CA-1BC05F51E3D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C6BD37C-9C34-4688-87CA-1BC05F51E3D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C6BD37C-9C34-4688-87CA-1BC05F51E3D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C6BD37C-9C34-4688-87CA-1BC05F51E3D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC6962EF-18A0-4615-933C-193B98C1ED61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC6962EF-18A0-4615-933C-193B98C1ED61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC6962EF-18A0-4615-933C-193B98C1ED61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC6962EF-18A0-4615-933C-193B98C1ED61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{652E5FE6-1C3C-4D4B-8A66-CC9605C1A6C3} = {249DEF04-69F8-4036-BB8F-500E28582ADC}
+		{1082E2D3-C8B8-4771-B24B-E84D083CA2FD} = {85243A35-60E7-4473-9D30-076FC3FDBD80}
+		{135E7A65-E373-455E-8331-A9D91FADF530} = {E2A71F55-C565-4148-9A6D-35D0253978AB}
 		{0C95D53F-BDF5-48C8-B91C-88F74B4FC1E1} = {B0666269-BD86-42C9-9EA4-9FE2702E46AA}
+		{E0766DF8-7043-48D7-8637-93C06905588B} = {85243A35-60E7-4473-9D30-076FC3FDBD80}
+		{E5594B24-D737-434D-94BD-BC0638AAFFE9} = {249DEF04-69F8-4036-BB8F-500E28582ADC}
+		{1C6BD37C-9C34-4688-87CA-1BC05F51E3D7} = {E2A71F55-C565-4148-9A6D-35D0253978AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7FBED71A-0AB8-4BA6-9104-9C84C49FB7F8}

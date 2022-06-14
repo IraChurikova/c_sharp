@@ -18,3 +18,16 @@ C:\Users\User\Desktop\лабы с_шарп\--\лаба4_с_шарп\WindowsForms
 C:\Users\User\Desktop\лабы с_шарп\--\лаба4_с_шарп\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\лабы с_шарп\--\лаба4_с_шарп\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
 C:\Users\User\Desktop\лабы с_шарп\--\лаба4_с_шарп\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\User\Desktop\--\лаба4_с_шарп\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\User\Desktop\--\лаба4_с_шарп\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\User\Desktop\--\лаба4_с_шарп\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\User\Desktop\--\лаба4_с_шарп\WindowsFormsApp2\bin\Debug\лаб4_библиотекаКлассов.dll
+C:\Users\User\Desktop\--\лаба4_с_шарп\WindowsFormsApp2\bin\Debug\лаб4_библиотекаКлассов.pdb
+C:\Users\User\Desktop\--\лаба4_с_шарп\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\--\лаба4_с_шарп\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\User\Desktop\--\лаба4_с_шарп\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\User\Desktop\--\лаба4_с_шарп\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\--\лаба4_с_шарп\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\--\лаба4_с_шарп\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\User\Desktop\--\лаба4_с_шарп\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\User\Desktop\--\лаба4_с_шарп\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
