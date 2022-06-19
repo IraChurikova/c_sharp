@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\--\\лаб4_библиотекаКлассов\\лаб4_библиотекаКлассов.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\лабы с_шарп\\--\\лаб4_библиотекаКлассов\\лаб4_библиотекаКлассов.csproj",
       "projectName": "лаб4_библиотекаКлассов",
-      "projectPath": "C:\\Users\\User\\Desktop\\--\\лаб4_библиотекаКлассов\\лаб4_библиотекаКлассов.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\лабы с_шарп\\--\\лаб4_библиотекаКлассов\\лаб4_библиотекаКлассов.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\--\\лаб4_библиотекаКлассов\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\лабы с_шарп\\--\\лаб4_библиотекаКлассов\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

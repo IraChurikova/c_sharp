@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\лабы с_шарп\CsLabs\InputString\bin\Debug\InputString.dll
+C:\Users\User\Desktop\лабы с_шарп\CsLabs\InputString\bin\Debug\InputString.pdb
+C:\Users\User\Desktop\лабы с_шарп\CsLabs\InputString\obj\Debug\InputString.csprojAssemblyReference.cache
+C:\Users\User\Desktop\лабы с_шарп\CsLabs\InputString\obj\Debug\InputString.InputStringDialog.resources
+C:\Users\User\Desktop\лабы с_шарп\CsLabs\InputString\obj\Debug\InputString.csproj.GenerateResource.cache
+C:\Users\User\Desktop\лабы с_шарп\CsLabs\InputString\obj\Debug\InputString.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\лабы с_шарп\CsLabs\InputString\obj\Debug\InputString.dll
+C:\Users\User\Desktop\лабы с_шарп\CsLabs\InputString\obj\Debug\InputString.pdb

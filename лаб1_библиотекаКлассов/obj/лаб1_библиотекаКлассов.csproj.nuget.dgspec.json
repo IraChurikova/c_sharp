@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\--\\лаб1_библиотекаКлассов\\лаб1_библиотекаКлассов.csproj": {}
+    "C:\\Users\\User\\Desktop\\лабы с_шарп\\--\\лаб1_библиотекаКлассов\\лаб1_библиотекаКлассов.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\--\\лаб1_библиотекаКлассов\\лаб1_библиотекаКлассов.csproj": {
+    "C:\\Users\\User\\Desktop\\лабы с_шарп\\--\\лаб1_библиотекаКлассов\\лаб1_библиотекаКлассов.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\--\\лаб1_библиотекаКлассов\\лаб1_библиотекаКлассов.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\лабы с_шарп\\--\\лаб1_библиотекаКлассов\\лаб1_библиотекаКлассов.csproj",
         "projectName": "лаб1_библиотекаКлассов",
-        "projectPath": "C:\\Users\\User\\Desktop\\--\\лаб1_библиотекаКлассов\\лаб1_библиотекаКлассов.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\лабы с_шарп\\--\\лаб1_библиотекаКлассов\\лаб1_библиотекаКлассов.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\--\\лаб1_библиотекаКлассов\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\лабы с_шарп\\--\\лаб1_библиотекаКлассов\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

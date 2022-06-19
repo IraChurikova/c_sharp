@@ -1,0 +1,64 @@
+C:\Users\User\Desktop\лабы с_шарп\CsLabs\Lab5.Main\bin\Debug\Lab5.Main.exe.config
+C:\Users\User\Desktop\лабы с_шарп\CsLabs\Lab5.Main\bin\Debug\Lab5.Main.exe
+C:\Users\User\Desktop\лабы с_шарп\CsLabs\Lab5.Main\bin\Debug\Lab5.Main.pdb
+C:\Users\User\Desktop\лабы с_шарп\CsLabs\Lab5.Main\bin\Debug\InputString.dll
+C:\Users\User\Desktop\лабы с_шарп\CsLabs\Lab5.Main\bin\Debug\Lab5.Models.dll
+C:\Users\User\Desktop\лабы с_шарп\CsLabs\Lab5.Main\bin\Debug\InputString.pdb
+C:\Users\User\Desktop\лабы с_шарп\CsLabs\Lab5.Main\bin\Debug\Lab5.Models.pdb
+C:\Users\User\Desktop\лабы с_шарп\CsLabs\Lab5.Main\obj\Debug\Lab5.Main.csprojAssemblyReference.cache
+C:\Users\User\Desktop\лабы с_шарп\CsLabs\Lab5.Main\obj\Debug\Lab5.Main.MainForm.resources
+C:\Users\User\Desktop\лабы с_шарп\CsLabs\Lab5.Main\obj\Debug\Lab5.Main.Properties.Resources.resources
+C:\Users\User\Desktop\лабы с_шарп\CsLabs\Lab5.Main\obj\Debug\Lab5.Main.csproj.GenerateResource.cache
+C:\Users\User\Desktop\лабы с_шарп\CsLabs\Lab5.Main\obj\Debug\Lab5.Main.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\лабы с_шарп\CsLabs\Lab5.Main\obj\Debug\Lab5.Main.csproj.CopyComplete
+C:\Users\User\Desktop\лабы с_шарп\CsLabs\Lab5.Main\obj\Debug\Lab5.Main.exe
+C:\Users\User\Desktop\лабы с_шарп\CsLabs\Lab5.Main\obj\Debug\Lab5.Main.pdb
+C:\Users\User\Desktop\лабы с_шарп\CsLabs\Lab5.Main\obj\Debug\Lab5.Main.SelectEmergenceServiceType.resources
+C:\Users\User\Desktop\CsLabs\Lab5.Main\bin\Debug\Lab5.Main.exe.config
+C:\Users\User\Desktop\CsLabs\Lab5.Main\bin\Debug\Lab5.Main.exe
+C:\Users\User\Desktop\CsLabs\Lab5.Main\bin\Debug\Lab5.Main.pdb
+C:\Users\User\Desktop\CsLabs\Lab5.Main\bin\Debug\InputString.dll
+C:\Users\User\Desktop\CsLabs\Lab5.Main\bin\Debug\Lab5.Models.dll
+C:\Users\User\Desktop\CsLabs\Lab5.Main\bin\Debug\InputString.pdb
+C:\Users\User\Desktop\CsLabs\Lab5.Main\bin\Debug\Lab5.Models.pdb
+C:\Users\User\Desktop\CsLabs\Lab5.Main\obj\Debug\Lab5.Main.csprojAssemblyReference.cache
+C:\Users\User\Desktop\CsLabs\Lab5.Main\obj\Debug\Lab5.Main.MainForm.resources
+C:\Users\User\Desktop\CsLabs\Lab5.Main\obj\Debug\Lab5.Main.Properties.Resources.resources
+C:\Users\User\Desktop\CsLabs\Lab5.Main\obj\Debug\Lab5.Main.SelectEmergenceServiceType.resources
+C:\Users\User\Desktop\CsLabs\Lab5.Main\obj\Debug\Lab5.Main.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CsLabs\Lab5.Main\obj\Debug\Lab5.Main.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CsLabs\Lab5.Main\obj\Debug\Lab5.Main.csproj.CopyComplete
+C:\Users\User\Desktop\CsLabs\Lab5.Main\obj\Debug\Lab5.Main.exe
+C:\Users\User\Desktop\CsLabs\Lab5.Main\obj\Debug\Lab5.Main.pdb
+C:\Users\User\Desktop\CsLabs\lab5\Lab5.Main\bin\Debug\Lab5.Main.exe.config
+C:\Users\User\Desktop\CsLabs\lab5\Lab5.Main\bin\Debug\Lab5.Main.exe
+C:\Users\User\Desktop\CsLabs\lab5\Lab5.Main\bin\Debug\Lab5.Main.pdb
+C:\Users\User\Desktop\CsLabs\lab5\Lab5.Main\bin\Debug\InputString.dll
+C:\Users\User\Desktop\CsLabs\lab5\Lab5.Main\bin\Debug\Lab5.Models.dll
+C:\Users\User\Desktop\CsLabs\lab5\Lab5.Main\bin\Debug\InputString.pdb
+C:\Users\User\Desktop\CsLabs\lab5\Lab5.Main\bin\Debug\Lab5.Models.pdb
+C:\Users\User\Desktop\CsLabs\lab5\Lab5.Main\obj\Debug\Lab5.Main.csprojAssemblyReference.cache
+C:\Users\User\Desktop\CsLabs\lab5\Lab5.Main\obj\Debug\Lab5.Main.MainForm.resources
+C:\Users\User\Desktop\CsLabs\lab5\Lab5.Main\obj\Debug\Lab5.Main.Properties.Resources.resources
+C:\Users\User\Desktop\CsLabs\lab5\Lab5.Main\obj\Debug\Lab5.Main.SelectEmergenceServiceType.resources
+C:\Users\User\Desktop\CsLabs\lab5\Lab5.Main\obj\Debug\Lab5.Main.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CsLabs\lab5\Lab5.Main\obj\Debug\Lab5.Main.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CsLabs\lab5\Lab5.Main\obj\Debug\Lab5.Main.csproj.CopyComplete
+C:\Users\User\Desktop\CsLabs\lab5\Lab5.Main\obj\Debug\Lab5.Main.exe
+C:\Users\User\Desktop\CsLabs\lab5\Lab5.Main\obj\Debug\Lab5.Main.pdb
+C:\Users\User\Desktop\лабы с_шарп\--\Lab5.Main\bin\Debug\Lab5.Main.exe.config
+C:\Users\User\Desktop\лабы с_шарп\--\Lab5.Main\bin\Debug\Lab5.Main.exe
+C:\Users\User\Desktop\лабы с_шарп\--\Lab5.Main\bin\Debug\Lab5.Main.pdb
+C:\Users\User\Desktop\лабы с_шарп\--\Lab5.Main\bin\Debug\InputString.dll
+C:\Users\User\Desktop\лабы с_шарп\--\Lab5.Main\bin\Debug\Lab5.Models.dll
+C:\Users\User\Desktop\лабы с_шарп\--\Lab5.Main\bin\Debug\Lab5.Models.pdb
+C:\Users\User\Desktop\лабы с_шарп\--\Lab5.Main\bin\Debug\InputString.pdb
+C:\Users\User\Desktop\лабы с_шарп\--\Lab5.Main\obj\Debug\Lab5.Main.csprojAssemblyReference.cache
+C:\Users\User\Desktop\лабы с_шарп\--\Lab5.Main\obj\Debug\Lab5.Main.MainForm.resources
+C:\Users\User\Desktop\лабы с_шарп\--\Lab5.Main\obj\Debug\Lab5.Main.Properties.Resources.resources
+C:\Users\User\Desktop\лабы с_шарп\--\Lab5.Main\obj\Debug\Lab5.Main.SelectEmergenceServiceType.resources
+C:\Users\User\Desktop\лабы с_шарп\--\Lab5.Main\obj\Debug\Lab5.Main.csproj.GenerateResource.cache
+C:\Users\User\Desktop\лабы с_шарп\--\Lab5.Main\obj\Debug\Lab5.Main.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\лабы с_шарп\--\Lab5.Main\obj\Debug\Lab5.Main.csproj.CopyComplete
+C:\Users\User\Desktop\лабы с_шарп\--\Lab5.Main\obj\Debug\Lab5.Main.exe
+C:\Users\User\Desktop\лабы с_шарп\--\Lab5.Main\obj\Debug\Lab5.Main.pdb
